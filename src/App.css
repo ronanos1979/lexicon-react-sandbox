@@ -182,3 +182,9 @@
     border-right-color: var(--border);
   }
 }
+
+
+/* In your CSS */
+.avatar {
+  border-radius: 50%;
+}

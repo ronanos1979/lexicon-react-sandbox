@@ -1,3 +1,14 @@
+# Lexicon React Sandbox
+
+Learning React fundamentals:
+- useState
+- components
+- list rendering
+- API integration (planned)
+
+
+Default file is below this..
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
